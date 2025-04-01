@@ -10,7 +10,9 @@ cd mew
 cargo build --release
 ```
 Or download [release](https://github.com/Ad4ndi/mew/releases) <br>
-To quick use move executable to /bin/ 
+
+> [!NOTE]
+> To quick use move executable to `/bin/`
 
 ### Usage
 ```shell
