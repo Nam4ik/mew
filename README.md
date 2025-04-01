@@ -7,9 +7,11 @@
 ```shell
 git clone https://github.com/Ad4ndi/mew.git
 cd mew
-cargo build
+cargo build --release
 ```
-Или скачайте [релиз](https://github.com/Ad4ndi/mew/releases)
+Or download [release](https://github.com/Ad4ndi/mew/releases)
+To quick use move executable to /bin/ 
+
 ### Usage
 ```shell
 mew [file]
