@@ -5,11 +5,11 @@
 
 ### Installation
 ```shell
-git chone https://github.com/Ad4ndi/mew
+git clone https://github.com/Ad4ndi/mew.git
 cd mew
 cargo build
 ```
-
+Или скачайте [релиз](https://github.com/Ad4ndi/mew/releases)
 ### Usage
 ```shell
 mew [file]
