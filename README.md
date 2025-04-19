@@ -23,6 +23,5 @@ mew [file]
 
 ### Bugs (TODO)
 
-- No line scrolling
-- ASCII block alignment issue
-- Unoptimized file loading (full)
+- No scaling
+- Invisible file info
