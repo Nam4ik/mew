@@ -1,4 +1,6 @@
-# mew 0.2 - Hex code editor
+# mew 0.4 - Hex code editor
+
+The main repository has been removed with reasons unknown to me. `Release` page will be restored next time
 
 > [!CAUTION]
 > The current version of this program is unstable, has bugs and is not ready for use.
